@@ -1,0 +1,474 @@
+year,canton,pop,Name
+1981,Zürich,1120815,ZH_Zuerich_urban
+1981,Bern / Berne,897242,BE_Bern_urban
+1981,Luzern,294421,LU_Rigi_rural
+1981,Basel-Stadt,203598,BS_Basel_urban
+1981,Basel-Landschaft,232625,BL_BaselBinningen_suburban
+1981,Thurgau,182677,TG_Taenikon_rural
+1981,Ticino,265588,TI_Lugano_urban
+1981,Vaud,522340,VD_Lausanne_urban
+1981,Valais / Wallis,217795,VS_Saxon_rural
+1981,Neuchâtel,157091,NE_Chaumont_rural
+1981,Genève,349562,GE_Meyrin_suburban
+1982,Zürich,1123840,ZH_Zuerich_urban
+1982,Bern / Berne,900933,BE_Bern_urban
+1982,Luzern,296378,LU_Rigi_rural
+1982,Basel-Stadt,202121,BS_Basel_urban
+1982,Basel-Landschaft,233750,BL_BaselBinningen_suburban
+1982,Thurgau,184872,TG_Taenikon_rural
+1982,Ticino,268748,TI_Lugano_urban
+1982,Vaud,526552,VD_Lausanne_urban
+1982,Valais / Wallis,219953,VS_Saxon_rural
+1982,Neuchâtel,156803,NE_Chaumont_rural
+1982,Genève,352461,GE_Meyrin_suburban
+1983,Zürich,1127659,ZH_Zuerich_urban
+1983,Bern / Berne,904366,BE_Bern_urban
+1983,Luzern,298597,LU_Rigi_rural
+1983,Basel-Stadt,201139,BS_Basel_urban
+1983,Basel-Landschaft,235002,BL_BaselBinningen_suburban
+1983,Thurgau,186557,TG_Taenikon_rural
+1983,Ticino,271233,TI_Lugano_urban
+1983,Vaud,531413,VD_Lausanne_urban
+1983,Valais / Wallis,222668,VS_Saxon_rural
+1983,Neuchâtel,156020,NE_Chaumont_rural
+1983,Genève,355806,GE_Meyrin_suburban
+1984,Zürich,1124690,ZH_Zuerich_urban
+1984,Bern / Berne,906016,BE_Bern_urban
+1984,Luzern,300237,LU_Rigi_rural
+1984,Basel-Stadt,199203,BS_Basel_urban
+1984,Basel-Landschaft,235999,BL_BaselBinningen_suburban
+1984,Thurgau,187706,TG_Taenikon_rural
+1984,Ticino,272178,TI_Lugano_urban
+1984,Vaud,535239,VD_Lausanne_urban
+1984,Valais / Wallis,225094,VS_Saxon_rural
+1984,Neuchâtel,154790,NE_Chaumont_rural
+1984,Genève,357752,GE_Meyrin_suburban
+1985,Zürich,1126848,ZH_Zuerich_urban
+1985,Bern / Berne,907491,BE_Bern_urban
+1985,Luzern,302245,LU_Rigi_rural
+1985,Basel-Stadt,197470,BS_Basel_urban
+1985,Basel-Landschaft,237355,BL_BaselBinningen_suburban
+1985,Thurgau,189155,TG_Taenikon_rural
+1985,Ticino,273528,TI_Lugano_urban
+1985,Vaud,539627,VD_Lausanne_urban
+1985,Valais / Wallis,227274,VS_Saxon_rural
+1985,Neuchâtel,154719,NE_Chaumont_rural
+1985,Genève,360462,GE_Meyrin_suburban
+1986,Zürich,1128248,ZH_Zuerich_urban
+1986,Bern / Berne,908739,BE_Bern_urban
+1986,Luzern,303901,LU_Rigi_rural
+1986,Basel-Stadt,195858,BS_Basel_urban
+1986,Basel-Landschaft,238970,BL_BaselBinningen_suburban
+1986,Thurgau,190699,TG_Taenikon_rural
+1986,Ticino,275261,TI_Lugano_urban
+1986,Vaud,543667,VD_Lausanne_urban
+1986,Valais / Wallis,229470,VS_Saxon_rural
+1986,Neuchâtel,154909,NE_Chaumont_rural
+1986,Genève,362157,GE_Meyrin_suburban
+1987,Zürich,1131484,ZH_Zuerich_urban
+1987,Bern / Berne,911206,BE_Bern_urban
+1987,Luzern,306132,LU_Rigi_rural
+1987,Basel-Stadt,194340,BS_Basel_urban
+1987,Basel-Landschaft,239961,BL_BaselBinningen_suburban
+1987,Thurgau,192439,TG_Taenikon_rural
+1987,Ticino,277220,TI_Lugano_urban
+1987,Vaud,550336,VD_Lausanne_urban
+1987,Valais / Wallis,232550,VS_Saxon_rural
+1987,Neuchâtel,156216,NE_Chaumont_rural
+1987,Genève,363550,GE_Meyrin_suburban
+1988,Zürich,1136566,ZH_Zuerich_urban
+1988,Bern / Berne,914453,BE_Bern_urban
+1988,Luzern,308741,LU_Rigi_rural
+1988,Basel-Stadt,192559,BS_Basel_urban
+1988,Basel-Landschaft,241293,BL_BaselBinningen_suburban
+1988,Thurgau,195219,TG_Taenikon_rural
+1988,Ticino,278647,TI_Lugano_urban
+1988,Vaud,556942,VD_Lausanne_urban
+1988,Valais / Wallis,235390,VS_Saxon_rural
+1988,Neuchâtel,156943,NE_Chaumont_rural
+1988,Genève,365525,GE_Meyrin_suburban
+1989,Zürich,1141494,ZH_Zuerich_urban
+1989,Bern / Berne,918139,BE_Bern_urban
+1989,Luzern,311761,LU_Rigi_rural
+1989,Basel-Stadt,190854,BS_Basel_urban
+1989,Basel-Landschaft,242453,BL_BaselBinningen_suburban
+1989,Thurgau,198371,TG_Taenikon_rural
+1989,Ticino,280630,TI_Lugano_urban
+1989,Vaud,565181,VD_Lausanne_urban
+1989,Valais / Wallis,239048,VS_Saxon_rural
+1989,Neuchâtel,157436,NE_Chaumont_rural
+1989,Genève,371356,GE_Meyrin_suburban
+1990,Zürich,1144899,ZH_Zuerich_urban
+1990,Bern / Berne,922825,BE_Bern_urban
+1990,Luzern,314837,LU_Rigi_rural
+1990,Basel-Stadt,190347,BS_Basel_urban
+1990,Basel-Landschaft,243444,BL_BaselBinningen_suburban
+1990,Thurgau,201620,TG_Taenikon_rural
+1990,Ticino,283023,TI_Lugano_urban
+1990,Vaud,571973,VD_Lausanne_urban
+1990,Valais / Wallis,243705,VS_Saxon_rural
+1990,Neuchâtel,158569,NE_Chaumont_rural
+1990,Genève,373019,GE_Meyrin_suburban
+1991,Zürich,1143249,ZH_Zuerich_urban
+1991,Bern / Berne,927438,BE_Bern_urban
+1991,Luzern,321424,LU_Rigi_rural
+1991,Basel-Stadt,193828,BS_Basel_urban
+1991,Basel-Landschaft,246163,BL_BaselBinningen_suburban
+1991,Thurgau,206320,TG_Taenikon_rural
+1991,Ticino,286744,TI_Lugano_urban
+1991,Vaud,577524,VD_Lausanne_urban
+1991,Valais / Wallis,251962,VS_Saxon_rural
+1991,Neuchâtel,159722,NE_Chaumont_rural
+1991,Genève,378655,GE_Meyrin_suburban
+1992,Zürich,1151718,ZH_Zuerich_urban
+1992,Bern / Berne,934584,BE_Bern_urban
+1992,Luzern,326283,LU_Rigi_rural
+1992,Basel-Stadt,195647,BS_Basel_urban
+1992,Basel-Landschaft,247394,BL_BaselBinningen_suburban
+1992,Thurgau,210542,TG_Taenikon_rural
+1992,Ticino,290000,TI_Lugano_urban
+1992,Vaud,587283,VD_Lausanne_urban
+1992,Valais / Wallis,257730,VS_Saxon_rural
+1992,Neuchâtel,161774,NE_Chaumont_rural
+1992,Genève,381404,GE_Meyrin_suburban
+1993,Zürich,1158077,ZH_Zuerich_urban
+1993,Bern / Berne,937995,BE_Bern_urban
+1993,Luzern,331830,LU_Rigi_rural
+1993,Basel-Stadt,196634,BS_Basel_urban
+1993,Basel-Landschaft,248488,BL_BaselBinningen_suburban
+1993,Thurgau,213167,TG_Taenikon_rural
+1993,Ticino,294108,TI_Lugano_urban
+1993,Vaud,593007,VD_Lausanne_urban
+1993,Valais / Wallis,262389,VS_Saxon_rural
+1993,Neuchâtel,162581,NE_Chaumont_rural
+1993,Genève,383911,GE_Meyrin_suburban
+1994,Zürich,1162083,ZH_Zuerich_urban
+1994,Bern / Berne,941017,BE_Bern_urban
+1994,Luzern,335385,LU_Rigi_rural
+1994,Basel-Stadt,197403,BS_Basel_urban
+1994,Basel-Landschaft,250380,BL_BaselBinningen_suburban
+1994,Thurgau,217129,TG_Taenikon_rural
+1994,Ticino,297955,TI_Lugano_urban
+1994,Vaud,596736,VD_Lausanne_urban
+1994,Valais / Wallis,266713,VS_Saxon_rural
+1994,Neuchâtel,163884,NE_Chaumont_rural
+1994,Genève,387606,GE_Meyrin_suburban
+1995,Zürich,1168567,ZH_Zuerich_urban
+1995,Bern / Berne,941614,BE_Bern_urban
+1995,Luzern,337941,LU_Rigi_rural
+1995,Basel-Stadt,197054,BS_Basel_urban
+1995,Basel-Landschaft,251259,BL_BaselBinningen_suburban
+1995,Thurgau,220335,TG_Taenikon_rural
+1995,Ticino,302131,TI_Lugano_urban
+1995,Vaud,602099,VD_Lausanne_urban
+1995,Valais / Wallis,269341,VS_Saxon_rural
+1995,Neuchâtel,164176,NE_Chaumont_rural
+1995,Genève,391699,GE_Meyrin_suburban
+1996,Zürich,1175457,ZH_Zuerich_urban
+1996,Bern / Berne,941823,BE_Bern_urban
+1996,Luzern,340536,LU_Rigi_rural
+1996,Basel-Stadt,195759,BS_Basel_urban
+1996,Basel-Landschaft,252331,BL_BaselBinningen_suburban
+1996,Thurgau,223372,TG_Taenikon_rural
+1996,Ticino,305199,TI_Lugano_urban
+1996,Vaud,605677,VD_Lausanne_urban
+1996,Valais / Wallis,271291,VS_Saxon_rural
+1996,Neuchâtel,165258,NE_Chaumont_rural
+1996,Genève,395466,GE_Meyrin_suburban
+1997,Zürich,1178848,ZH_Zuerich_urban
+1997,Bern / Berne,940872,BE_Bern_urban
+1997,Luzern,341809,LU_Rigi_rural
+1997,Basel-Stadt,194913,BS_Basel_urban
+1997,Basel-Landschaft,253911,BL_BaselBinningen_suburban
+1997,Thurgau,224822,TG_Taenikon_rural
+1997,Ticino,304830,TI_Lugano_urban
+1997,Vaud,606471,VD_Lausanne_urban
+1997,Valais / Wallis,272315,VS_Saxon_rural
+1997,Neuchâtel,165232,NE_Chaumont_rural
+1997,Genève,394588,GE_Meyrin_suburban
+1998,Zürich,1181614,ZH_Zuerich_urban
+1998,Bern / Berne,938592,BE_Bern_urban
+1998,Luzern,342916,LU_Rigi_rural
+1998,Basel-Stadt,193053,BS_Basel_urban
+1998,Basel-Landschaft,255305,BL_BaselBinningen_suburban
+1998,Thurgau,225395,TG_Taenikon_rural
+1998,Ticino,305588,TI_Lugano_urban
+1998,Vaud,608153,VD_Lausanne_urban
+1998,Valais / Wallis,273362,VS_Saxon_rural
+1998,Neuchâtel,165410,NE_Chaumont_rural
+1998,Genève,396659,GE_Meyrin_suburban
+1999,Zürich,1187609,ZH_Zuerich_urban
+1999,Bern / Berne,941091,BE_Bern_urban
+1999,Luzern,343254,LU_Rigi_rural
+1999,Basel-Stadt,190505,BS_Basel_urban
+1999,Basel-Landschaft,256761,BL_BaselBinningen_suburban
+1999,Thurgau,226479,TG_Taenikon_rural
+1999,Ticino,306179,TI_Lugano_urban
+1999,Vaud,611613,VD_Lausanne_urban
+1999,Valais / Wallis,274458,VS_Saxon_rural
+1999,Neuchâtel,165594,NE_Chaumont_rural
+1999,Genève,398910,GE_Meyrin_suburban
+2000,Zürich,1198569,ZH_Zuerich_urban
+2000,Bern / Berne,943372,BE_Bern_urban
+2000,Luzern,345357,LU_Rigi_rural
+2000,Basel-Stadt,188458,BS_Basel_urban
+2000,Basel-Landschaft,258602,BL_BaselBinningen_suburban
+2000,Thurgau,227285,TG_Taenikon_rural
+2000,Ticino,308498,TI_Lugano_urban
+2000,Vaud,616275,VD_Lausanne_urban
+2000,Valais / Wallis,275632,VS_Saxon_rural
+2000,Neuchâtel,165649,NE_Chaumont_rural
+2000,Genève,403067,GE_Meyrin_suburban
+2001,Zürich,1209672,ZH_Zuerich_urban
+2001,Bern / Berne,943969,BE_Bern_urban
+2001,Luzern,346473,LU_Rigi_rural
+2001,Basel-Stadt,187422,BS_Basel_urban
+2001,Basel-Landschaft,259634,BL_BaselBinningen_suburban
+2001,Thurgau,227481,TG_Taenikon_rural
+2001,Ticino,310834,TI_Lugano_urban
+2001,Vaud,619097,VD_Lausanne_urban
+2001,Valais / Wallis,276314,VS_Saxon_rural
+2001,Neuchâtel,165456,NE_Chaumont_rural
+2001,Genève,408146,GE_Meyrin_suburban
+2002,Zürich,1226931,ZH_Zuerich_urban
+2002,Bern / Berne,946253,BE_Bern_urban
+2002,Luzern,350017,LU_Rigi_rural
+2002,Basel-Stadt,186469,BS_Basel_urban
+2002,Basel-Landschaft,261083,BL_BaselBinningen_suburban
+2002,Thurgau,228206,TG_Taenikon_rural
+2002,Ticino,312528,TI_Lugano_urban
+2002,Vaud,624980,VD_Lausanne_urban
+2002,Valais / Wallis,278419,VS_Saxon_rural
+2002,Neuchâtel,166227,NE_Chaumont_rural
+2002,Genève,413618,GE_Meyrin_suburban
+2003,Zürich,1241312,ZH_Zuerich_urban
+2003,Bern / Berne,949534,BE_Bern_urban
+2003,Luzern,351889,LU_Rigi_rural
+2003,Basel-Stadt,186719,BS_Basel_urban
+2003,Basel-Landschaft,262949,BL_BaselBinningen_suburban
+2003,Thurgau,229904,TG_Taenikon_rural
+2003,Ticino,315256,TI_Lugano_urban
+2003,Vaud,631039,VD_Lausanne_urban
+2003,Valais / Wallis,281345,VS_Saxon_rural
+2003,Neuchâtel,166767,NE_Chaumont_rural
+2003,Genève,418747,GE_Meyrin_suburban
+2004,Zürich,1249893,ZH_Zuerich_urban
+2004,Bern / Berne,951903,BE_Bern_urban
+2004,Luzern,353175,LU_Rigi_rural
+2004,Basel-Stadt,186653,BS_Basel_urban
+2004,Basel-Landschaft,264402,BL_BaselBinningen_suburban
+2004,Thurgau,231836,TG_Taenikon_rural
+2004,Ticino,317315,TI_Lugano_urban
+2004,Vaud,639105,VD_Lausanne_urban
+2004,Valais / Wallis,285008,VS_Saxon_rural
+2004,Neuchâtel,167047,NE_Chaumont_rural
+2004,Genève,423993,GE_Meyrin_suburban
+2005,Zürich,1261810,ZH_Zuerich_urban
+2005,Bern / Berne,955324,BE_Bern_urban
+2005,Luzern,354731,LU_Rigi_rural
+2005,Basel-Stadt,186753,BS_Basel_urban
+2005,Basel-Landschaft,265305,BL_BaselBinningen_suburban
+2005,Thurgau,232978,TG_Taenikon_rural
+2005,Ticino,319931,TI_Lugano_urban
+2005,Vaud,647382,VD_Lausanne_urban
+2005,Valais / Wallis,287976,VS_Saxon_rural
+2005,Neuchâtel,167910,NE_Chaumont_rural
+2005,Genève,427396,GE_Meyrin_suburban
+2006,Zürich,1272590,ZH_Zuerich_urban
+2006,Bern / Berne,957013,BE_Bern_urban
+2006,Luzern,356384,LU_Rigi_rural
+2006,Basel-Stadt,185601,BS_Basel_urban
+2006,Basel-Landschaft,266089,BL_BaselBinningen_suburban
+2006,Thurgau,234332,TG_Taenikon_rural
+2006,Ticino,322276,TI_Lugano_urban
+2006,Vaud,654093,VD_Lausanne_urban
+2006,Valais / Wallis,291575,VS_Saxon_rural
+2006,Neuchâtel,168444,NE_Chaumont_rural
+2006,Genève,430638,GE_Meyrin_suburban
+2007,Zürich,1284052,ZH_Zuerich_urban
+2007,Bern / Berne,958845,BE_Bern_urban
+2007,Luzern,359110,LU_Rigi_rural
+2007,Basel-Stadt,184822,BS_Basel_urban
+2007,Basel-Landschaft,267166,BL_BaselBinningen_suburban
+2007,Thurgau,235764,TG_Taenikon_rural
+2007,Ticino,324851,TI_Lugano_urban
+2007,Vaud,662145,VD_Lausanne_urban
+2007,Valais / Wallis,294608,VS_Saxon_rural
+2007,Neuchâtel,168912,NE_Chaumont_rural
+2007,Genève,433235,GE_Meyrin_suburban
+2008,Zürich,1307567,ZH_Zuerich_urban
+2008,Bern / Berne,962932,BE_Bern_urban
+2008,Luzern,363475,LU_Rigi_rural
+2008,Basel-Stadt,185227,BS_Basel_urban
+2008,Basel-Landschaft,269145,BL_BaselBinningen_suburban
+2008,Thurgau,238316,TG_Taenikon_rural
+2008,Ticino,328580,TI_Lugano_urban
+2008,Vaud,672039,VD_Lausanne_urban
+2008,Valais / Wallis,298580,VS_Saxon_rural
+2008,Neuchâtel,169782,NE_Chaumont_rural
+2008,Genève,438177,GE_Meyrin_suburban
+2009,Zürich,1332727,ZH_Zuerich_urban
+2009,Bern / Berne,969250,BE_Bern_urban
+2009,Luzern,368742,LU_Rigi_rural
+2009,Basel-Stadt,186672,BS_Basel_urban
+2009,Basel-Landschaft,271214,BL_BaselBinningen_suburban
+2009,Thurgau,241811,TG_Taenikon_rural
+2009,Ticino,332736,TI_Lugano_urban
+2009,Vaud,688245,VD_Lausanne_urban
+2009,Valais / Wallis,303241,VS_Saxon_rural
+2009,Neuchâtel,170924,NE_Chaumont_rural
+2009,Genève,446106,GE_Meyrin_suburban
+2010,Zürich,1351297,ZH_Zuerich_urban
+2010,Bern / Berne,974186,BE_Bern_urban
+2010,Luzern,372964,LU_Rigi_rural
+2010,Basel-Stadt,187898,BS_Basel_urban
+2010,Basel-Landschaft,272815,BL_BaselBinningen_suburban
+2010,Thurgau,244805,TG_Taenikon_rural
+2010,Ticino,335720,TI_Lugano_urban
+2010,Vaud,701526,VD_Lausanne_urban
+2010,Valais / Wallis,307392,VS_Saxon_rural
+2010,Neuchâtel,171647,NE_Chaumont_rural
+2010,Genève,453292,GE_Meyrin_suburban
+2011,Zürich,1373068,ZH_Zuerich_urban
+2011,Bern / Berne,979754,BE_Bern_urban
+2011,Luzern,377610,LU_Rigi_rural
+2011,Basel-Stadt,184950,BS_Basel_urban
+2011,Basel-Landschaft,274404,BL_BaselBinningen_suburban
+2011,Thurgau,248444,TG_Taenikon_rural
+2011,Ticino,333753,TI_Lugano_urban
+2011,Vaud,713281,VD_Lausanne_urban
+2011,Valais / Wallis,312684,VS_Saxon_rural
+2011,Neuchâtel,172085,NE_Chaumont_rural
+2011,Genève,457715,GE_Meyrin_suburban
+2012,Zürich,1392396,ZH_Zuerich_urban
+2012,Bern / Berne,985000,BE_Bern_urban
+2012,Luzern,381966,LU_Rigi_rural
+2012,Basel-Stadt,186255,BS_Basel_urban
+2012,Basel-Landschaft,275360,BL_BaselBinningen_suburban
+2012,Thurgau,251973,TG_Taenikon_rural
+2012,Ticino,336943,TI_Lugano_urban
+2012,Vaud,725944,VD_Lausanne_urban
+2012,Valais / Wallis,317022,VS_Saxon_rural
+2012,Neuchâtel,173183,NE_Chaumont_rural
+2012,Genève,460534,GE_Meyrin_suburban
+2013,Zürich,1408575,ZH_Zuerich_urban
+2013,Bern / Berne,992567,BE_Bern_urban
+2013,Luzern,386082,LU_Rigi_rural
+2013,Basel-Stadt,187425,BS_Basel_urban
+2013,Basel-Landschaft,276537,BL_BaselBinningen_suburban
+2013,Thurgau,256213,TG_Taenikon_rural
+2013,Ticino,341652,TI_Lugano_urban
+2013,Vaud,734356,VD_Lausanne_urban
+2013,Valais / Wallis,321732,VS_Saxon_rural
+2013,Neuchâtel,174554,NE_Chaumont_rural
+2013,Genève,463101,GE_Meyrin_suburban
+2014,Zürich,1425538,ZH_Zuerich_urban
+2014,Bern / Berne,1001232,BE_Bern_urban
+2014,Luzern,390349,LU_Rigi_rural
+2014,Basel-Stadt,189335,BS_Basel_urban
+2014,Basel-Landschaft,278656,BL_BaselBinningen_suburban
+2014,Thurgau,260278,TG_Taenikon_rural
+2014,Ticino,346539,TI_Lugano_urban
+2014,Vaud,749373,VD_Lausanne_urban
+2014,Valais / Wallis,327011,VS_Saxon_rural
+2014,Neuchâtel,176402,NE_Chaumont_rural
+2014,Genève,469433,GE_Meyrin_suburban
+2015,Zürich,1446354,ZH_Zuerich_urban
+2015,Bern / Berne,1009370,BE_Bern_urban
+2015,Luzern,394604,LU_Rigi_rural
+2015,Basel-Stadt,190580,BS_Basel_urban
+2015,Basel-Landschaft,281301,BL_BaselBinningen_suburban
+2015,Thurgau,263733,TG_Taenikon_rural
+2015,Ticino,350363,TI_Lugano_urban
+2015,Vaud,761446,VD_Lausanne_urban
+2015,Valais / Wallis,331763,VS_Saxon_rural
+2015,Neuchâtel,177327,NE_Chaumont_rural
+2015,Genève,477385,GE_Meyrin_suburban
+2016,Zürich,1466424,ZH_Zuerich_urban
+2016,Bern / Berne,1017434,BE_Bern_urban
+2016,Luzern,398762,LU_Rigi_rural
+2016,Basel-Stadt,191817,BS_Basel_urban
+2016,Basel-Landschaft,283231,BL_BaselBinningen_suburban
+2016,Thurgau,267429,TG_Taenikon_rural
+2016,Ticino,351946,TI_Lugano_urban
+2016,Vaud,773407,VD_Lausanne_urban
+2016,Valais / Wallis,335696,VS_Saxon_rural
+2016,Neuchâtel,178107,NE_Chaumont_rural
+2016,Genève,484736,GE_Meyrin_suburban
+2017,Zürich,1487969,ZH_Zuerich_urban
+2017,Bern / Berne,1026464,BE_Bern_urban
+2017,Luzern,403397,LU_Rigi_rural
+2017,Basel-Stadt,193070,BS_Basel_urban
+2017,Basel-Landschaft,285624,BL_BaselBinningen_suburban
+2017,Thurgau,270709,TG_Taenikon_rural
+2017,Ticino,354375,TI_Lugano_urban
+2017,Vaud,784822,VD_Lausanne_urban
+2017,Valais / Wallis,339176,VS_Saxon_rural
+2017,Neuchâtel,178567,NE_Chaumont_rural
+2017,Genève,489524,GE_Meyrin_suburban
+2018,Zürich,1504346,ZH_Zuerich_urban
+2018,Bern / Berne,1031080,BE_Bern_urban
+2018,Luzern,406506,LU_Rigi_rural
+2018,Basel-Stadt,193908,BS_Basel_urban
+2018,Basel-Landschaft,287023,BL_BaselBinningen_suburban
+2018,Thurgau,273801,TG_Taenikon_rural
+2018,Ticino,353709,TI_Lugano_urban
+2018,Vaud,793129,VD_Lausanne_urban
+2018,Valais / Wallis,341463,VS_Saxon_rural
+2018,Neuchâtel,177964,NE_Chaumont_rural
+2018,Genève,495249,GE_Meyrin_suburban
+2019,Zürich,1520968,ZH_Zuerich_urban
+2019,Bern / Berne,1034931,BE_Bern_urban
+2019,Luzern,409557,LU_Rigi_rural
+2019,Basel-Stadt,194766,BS_Basel_urban
+2019,Basel-Landschaft,288132,BL_BaselBinningen_suburban
+2019,Thurgau,276472,TG_Taenikon_rural
+2019,Ticino,353343,TI_Lugano_urban
+2019,Vaud,799145,VD_Lausanne_urban
+2019,Valais / Wallis,343955,VS_Saxon_rural
+2019,Neuchâtel,176850,NE_Chaumont_rural
+2019,Genève,499480,GE_Meyrin_suburban
+2020,Zürich,1539275,ZH_Zuerich_urban
+2020,Bern / Berne,1039426,BE_Bern_urban
+2020,Luzern,413120,LU_Rigi_rural
+2020,Basel-Stadt,195844,BS_Basel_urban
+2020,Basel-Landschaft,289468,BL_BaselBinningen_suburban
+2020,Thurgau,279547,TG_Taenikon_rural
+2020,Ticino,351491,TI_Lugano_urban
+2020,Vaud,805098,VD_Lausanne_urban
+2020,Valais / Wallis,345525,VS_Saxon_rural
+2020,Neuchâtel,176496,NE_Chaumont_rural
+2020,Genève,504128,GE_Meyrin_suburban
+2021,Zürich,1553423,ZH_Zuerich_urban
+2021,Bern / Berne,1043081,BE_Bern_urban
+2021,Luzern,416347,LU_Rigi_rural
+2021,Basel-Stadt,196735,BS_Basel_urban
+2021,Basel-Landschaft,290969,BL_BaselBinningen_suburban
+2021,Thurgau,282909,TG_Taenikon_rural
+2021,Ticino,350986,TI_Lugano_urban
+2021,Vaud,814762,VD_Lausanne_urban
+2021,Valais / Wallis,348503,VS_Saxon_rural
+2021,Neuchâtel,175894,NE_Chaumont_rural
+2021,Genève,506343,GE_Meyrin_suburban
+2022,Zürich,1564662,ZH_Zuerich_urban
+2022,Bern / Berne,1047422,BE_Bern_urban
+2022,Luzern,420326,LU_Rigi_rural
+2022,Basel-Stadt,196036,BS_Basel_urban
+2022,Basel-Landschaft,292817,BL_BaselBinningen_suburban
+2022,Thurgau,285964,TG_Taenikon_rural
+2022,Ticino,352181,TI_Lugano_urban
+2022,Vaud,822968,VD_Lausanne_urban
+2022,Valais / Wallis,353209,VS_Saxon_rural
+2022,Neuchâtel,176166,NE_Chaumont_rural
+2022,Genève,509448,GE_Meyrin_suburban
+2023,Zürich,1579967,ZH_Zuerich_urban
+2023,Bern / Berne,1051437,BE_Bern_urban
+2023,Luzern,424851,LU_Rigi_rural
+2023,Basel-Stadt,196786,BS_Basel_urban
+2023,Basel-Landschaft,294417,BL_BaselBinningen_suburban
+2023,Thurgau,289650,TG_Taenikon_rural
+2023,Ticino,354023,TI_Lugano_urban
+2023,Vaud,830431,VD_Lausanne_urban
+2023,Valais / Wallis,357282,VS_Saxon_rural
+2023,Neuchâtel,176571,NE_Chaumont_rural
+2023,Genève,514114,GE_Meyrin_suburban
