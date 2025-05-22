@@ -66,10 +66,12 @@ But the correlation between industrial GDP and air quality also seems very linke
 <p align="center">
   <img src="ImgReadme/Urban.png" alt="Urban Cantons" width="500"/>
 </p>
+
 - Suburban: BL, GE
 <p align="center">
   <img src="ImgReadme/Suburban.png" alt="Suburban Cantons" width="500"/>
 </p>
+
 - Rural: LU, NE, TG, VS
 <p align="center">
   <img src="ImgReadme/Rural.png" alt="Rural Cantons" width="500"/>
