@@ -33,6 +33,7 @@ This approach allowed us to generate regression tables, compute significance lev
 ### Air Quality and Pollution
 #### National Level
 Three different fits have been tested between EVs and NO2 (a main component of air pollution coming from traffic and industrial emissions): Linear Fit, Polynomial degree 2 fit, and Polynomial degree 3 fit. The results are displayed in the graphs and table below.
+
 ![Linear Fit](ImgReadme/LinearFit.png)
 |                  | MSE   | MAE  | R² Score |
 |------------------|-------|------|----------|
