@@ -37,6 +37,7 @@ Three different fits have been tested between EVs and NO2 (a main component of a
 <p align="center">
   <img src="ImgReadme/LinearFit.png" alt="Linear Fit" width="500"/>
 </p>
+
 |                  | MSE   | MAE  | R² Score |
 |------------------|-------|------|----------|
 | Linear Fit       | 7.84  | 2.69 | 0.85     |
@@ -45,6 +46,7 @@ Three different fits have been tested between EVs and NO2 (a main component of a
 <p align="center">
   <img src="ImgReadme/2nddegfit.png" alt="Polynomial 2nd-degree fit" width="500"/>
 </p>
+
 |                           | MSE   | MAE  | R² Score |
 |---------------------------|-------|------|----------|
 | Polynomial 2nd degree Fit | 28.59 | 4.45 | 0.44     |
@@ -53,6 +55,7 @@ Three different fits have been tested between EVs and NO2 (a main component of a
 <p align="center">
   <img src="ImgReadme/3rddegfit.png" alt="Polynomial 3rd-degree fit" width="500"/>
 </p>
+
 |                           | MSE   | MAE  | R² Score |
 |---------------------------|-------|------|----------|
 | Polynomial 3rd degree Fit | 4.25  | 1.66 | 0.92     |
