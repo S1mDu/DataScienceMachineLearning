@@ -1,4 +1,6 @@
 # Project Summary
+## Video link
+Please follow the link to the video: [Link](https://youtu.be/JGLpjJL7K5s)! 
 
 ## Executive Summary
 This project aimed to investigate a link between Electric Vehicles (EVs), air quality and environmental metrics. We used Data Science and Machine Learning methods to model the relationship between EVs and air/climate metrics in Switzrerland. The analysis first focuses on the national level, then we try to support the findings throughout cantonal analysis. 
