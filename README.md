@@ -1,6 +1,7 @@
 # Project Summary
 ## Video link
 Please follow the link to the video: [Link](https://youtu.be/JGLpjJL7K5s)! 
+
 Github link: [Link](https://github.com/S1mDu/DataScienceMachineLearning)!
 
 ## Executive Summary
